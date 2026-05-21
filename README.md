@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/banner.png" alt="Banner Profesional de Alexander Galiano" width="100%" />
+  <img src="banner/banner.png" alt="Banner Profesional de Alexander Galiano" width="100%" />
 </div>
 
 <br>
@@ -12,7 +12,7 @@
   <a href="mailto:goldbooyy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="TU_LINK_DE_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/alexander-richard-galiano-diaz-00bb92258/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
