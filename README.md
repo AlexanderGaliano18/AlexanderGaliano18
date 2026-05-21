@@ -1,16 +1,39 @@
-## Hi there 👋
+# ¡Hola! Soy Alexander Galiano 👋
 
-<!--
-**AlexanderGaliano18/AlexanderGaliano18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre Mí
 
-Here are some ideas to get you started:
+- 🎓 Estudiante de **Ingeniería Empresarial y de Sistemas** en la Universidad Científica del Sur (UCSUR).
+- 💼 Desarrollador apasionado por crear soluciones eficientes y escalables.
+- 🚀 Actualmente enfocado en el desarrollo y mejora de aplicaciones de gestión empresarial utilizando **Python, Java/Spring Boot, SQL y Streamlit**.
+- 🍦 Emprendedor y administrador, aplicando mis conocimientos tecnológicos para optimizar procesos comerciales y control de inventarios.
+- 🗣️ Nivel de inglés: **Avanzado 1**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologías y Herramientas
+
+**Lenguajes y Frameworks:**
+- Python
+- Java
+- Spring Boot
+- SQL
+- Streamlit
+
+**Cloud y Herramientas:**
+- Google Cloud
+- GitHub Copilot
+
+## 📊 Estadísticas de GitHub
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexanderGaliano18&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+## 🚀 Lo que estoy haciendo actualmente
+
+- 🔧 Desarrollando y optimizando un sistema de gestión a medida para control de ventas e inventario.
+- 📚 Expandiendo mis conocimientos en arquitectura de software y diseño de sistemas.
+
+## 📫 Cómo contactarme
+
+- **GitHub:** [@AlexanderGaliano18](https://github.com/AlexanderGaliano18)
+- **Email:** [Envíame un correo](mailto:alexandergaliano18@gmail.com) 📧
+
+---
+*README generado con la estructura inspirada en readme.so*
