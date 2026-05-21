@@ -23,7 +23,13 @@
 
 ## 📊 Estadísticas de GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexanderGaliano18&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderGaliano18&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderGaliano18&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
 
 ## 🚀 Lo que estoy haciendo actualmente
 
@@ -33,7 +39,7 @@
 ## 📫 Cómo contactarme
 
 - **GitHub:** [@AlexanderGaliano18](https://github.com/AlexanderGaliano18)
-- **Email:** [Envíame un correo](mailto:alexandergaliano18@gmail.com) 📧
+- **Email:** [goldbooyy@gmail.com](mailto:goldbooyy@gmail.com) 📧
 
 ---
 *README generado con la estructura inspirada en readme.so*
